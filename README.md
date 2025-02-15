@@ -1,6 +1,4 @@
-# Ayna Assignment Front End
 
-This is the frontend for the Ayna Fullstack Developer Assignment. It consists of simple 3 pages(login, register, chat).
 
 ## Techstack
 
@@ -43,5 +41,5 @@ yarn dev
 Open http://localhost:3000 with your browser to see the result.
 
 
-## Backend
-Backend: https://github.com/Sam-Frost/Ayna-Assignment-Backend
+
+
